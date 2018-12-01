@@ -1,0 +1,13 @@
+{
+    "name": "athanasius-kircher/youtube-proxy",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "boellmann",
+            "email": "julius.boellmann@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
