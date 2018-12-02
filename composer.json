@@ -9,5 +9,21 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "symfony/config": "^4.3@dev",
+        "symfony/http-kernel": "^4.3@dev",
+        "symfony/http-foundation": "^4.3@dev",
+        "symfony/routing": "^4.3@dev",
+        "symfony/dependency-injection": "^4.3@dev",
+        "symfony/framework-bundle": "^4.3@dev",
+        "symfony/yaml": "^4.3@dev",
+        "symfony/web-profiler-bundle": "^4.3@dev",
+        "symfony/twig-bundle": "^4.3@dev",
+        "doctrine/annotations": "1.7.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "AthYoutubeProxy\\": "src/"
+        }
+    }
 }
