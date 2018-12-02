@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/lexer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/container" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/psr/simple-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/debug" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/dependency-injection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/event-dispatcher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/filesystem" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/finder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/framework-bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/http-foundation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/http-kernel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/routing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/twig-bridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/twig-bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/var-dumper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/var-exporter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/yaml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/twig/twig" vcs="Git" />
+  </component>
+</project>

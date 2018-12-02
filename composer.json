@@ -19,7 +19,8 @@
         "symfony/yaml": "^4.3@dev",
         "symfony/web-profiler-bundle": "^4.3@dev",
         "symfony/twig-bundle": "^4.3@dev",
-        "doctrine/annotations": "1.7.x-dev"
+        "doctrine/annotations": "1.7.x-dev",
+        "madcoda/php-youtube-api": "^1.2"
     },
     "autoload": {
         "psr-4": {
