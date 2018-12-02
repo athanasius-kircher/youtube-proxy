@@ -39,7 +39,9 @@ class Kernel extends BaseKernel
 
     protected function configureContainer(ContainerBuilder $c, LoaderInterface $loader)
     {
-        $loader->load(__DIR__.'/../config/framework.yaml');
+        $confDir = $this->getProjectDir() . '/config';
+        $loader->load($confDir . '/framework.yaml');
+        $loader->load($confDir . '/{services}' . self::CONFIG_EXTS, 'glob');
 
         // configure WebProfilerBundle only if the bundle is enabled
         if (isset($this->bundles['WebProfilerBundle'])) {

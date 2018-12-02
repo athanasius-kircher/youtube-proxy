@@ -1,3 +1,5 @@
+parameters:
+  youtube_api_key: '%env(resolve:YOUTUBE_API_KEY)%'
 framework:
   secret: S0ME_SECRET
   profiler: { only_exceptions: false }
